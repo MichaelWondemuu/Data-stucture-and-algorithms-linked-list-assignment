@@ -1,4 +1,4 @@
-### **📘Data Structures and Algorithm**s **Assignment C++**
+### **📘Data Structures and Algorithm**s **Assignment C++"**
 
 ---
 
@@ -17,13 +17,13 @@ To strengthen understanding of pointers and dynamic memory by implementing key d
 * Submit: `.cpp` file(s), sample input/output, and a brief description.
 
 * Deadline: Tuesday 28-09-2027 E.C  
-* Presentation Date: Wednesday 29-09-2027 E.C
+* Presentation Date: Wednsday 29-09-2027 E.C
 
 ---
 
 ## **📂 Assignment Parts**
 
-### **🧩 Part 1: Doubly Linked List – 10 Marks**
+### **🧩 Part 1: Doubly Linked List – 15 Marks**
 
 **Requirements:**
 
@@ -53,7 +53,7 @@ Implement a **Doubly Linked List** supporting:
 
 ---
 
-### **🔁 Part 2: Circular Linked List – 5 Marks**
+### **🔁 Part 2: Circular Linked List – 10 Marks**
 
 **Requirements:**
 
@@ -73,24 +73,17 @@ Implement a **Circular Singly Linked List** with:
 
 ---
 
-### **🌳 Part 3: Binary Tree Using Linked List – 5 Marks**
+### **🌳 Part 3: Queue Using Linked List – 4 Marks (10%)**
 
-**Requirements:**
+**Implement a Queue using a singly linked list with:**
 
-Build a binary tree using dynamically allocated nodes with:
+* enqueue(value)
 
-1. Manual tree creation (ask user to insert left/right nodes)
+* dequeue()
 
-2. Traversals:
+* peek()
 
-   * Preorder
-
-   * Inorder
-
-   * Postorder
-
-3. Tree height function
-
+* Display the full queue
 
 ---
 
@@ -110,7 +103,6 @@ Build a binary tree using dynamically allocated nodes with:
 | ----- | ----- |
 | Part 1: Doubly Linked List | 10 |
 | Part 2: Circular Linked List | 5 |
-| Part 3: Binary Tree | 10 |
+| Part 3: Queue | 10 |
 | Part 4: Individual Questions(including the quiz) | 20 |
 | **Total** | **40** |
-

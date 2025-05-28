@@ -23,7 +23,7 @@ To strengthen understanding of pointers and dynamic memory by implementing key d
 
 ## **📂 Assignment Parts**
 
-### **🧩 Part 1: Doubly Linked List – 15 Marks**
+### **🧩 Part 1: Doubly Linked List – 10 Marks**
 
 **Requirements:**
 
@@ -53,7 +53,7 @@ Implement a **Doubly Linked List** supporting:
 
 ---
 
-### **🔁 Part 2: Circular Linked List – 10 Marks**
+### **🔁 Part 2: Circular Linked List – 5 Marks**
 
 **Requirements:**
 
@@ -73,7 +73,7 @@ Implement a **Circular Singly Linked List** with:
 
 ---
 
-### **🌳 Part 3: Binary Tree Using Linked List – 15 Marks**
+### **🌳 Part 3: Binary Tree Using Linked List – 5 Marks**
 
 **Requirements:**
 

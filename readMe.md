@@ -91,7 +91,6 @@ Build a binary tree using dynamically allocated nodes with:
 
 3. Tree height function
 
-4. **(Optional Bonus \+2)**: Level-order traversal using queue (BFS)
 
 ---
 

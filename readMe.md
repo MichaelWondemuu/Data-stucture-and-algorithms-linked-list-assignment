@@ -17,7 +17,7 @@ To strengthen understanding of pointers and dynamic memory by implementing key d
 * Submit: `.cpp` file(s), sample input/output, and a brief description.
 
 * Deadline: Tuesday 28-09-2027 E.C  
-* Presentation Date: Wednsday 29-09-2027 E.C
+* Presentation Date: Wednesday 29-09-2027 E.C
 
 ---
 
